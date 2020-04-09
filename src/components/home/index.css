@@ -1,0 +1,22 @@
+#customBtn{
+    border: 1px solid #ced4da;
+    border-radius: 0px;
+}
+
+input{
+    border-radius: 0px !important;
+}
+
+.card-title{
+    font-size: 16px;
+    min-height: 40px;
+}
+
+.avtarImg{
+    max-height: 350px;
+}
+
+.homeIcon{
+    height: 25px;
+    width: 25px;
+}

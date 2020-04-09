@@ -1,0 +1,13 @@
+#content_wrapper{
+    border: 1px solid #f8f9faab;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#imageDetailPage{
+    height: 250px;
+}
+
+.homeIcon{
+    height: 25px;
+    width: 25px;
+}
